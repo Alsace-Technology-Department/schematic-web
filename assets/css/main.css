@@ -1,0 +1,77 @@
+.container-warpper {
+    padding: 5rem 3rem 2rem 3rem;
+    background-color: #fafafa;
+    border-radius: 8px;
+}
+.container-info {
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    word-wrap: break-word;
+    min-width: 300px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.downloads {
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 100%;
+    color: #000;
+    background: #DDD;
+    margin-top: 5%;
+}
+.header {
+    border-radius: 5px;
+    padding: 10px;
+    margin: -45px 10% 0px 10%;
+    font-size: 100%;
+    color: #000;
+    text-align: center;
+    background: #DDD;
+}
+.main {
+    padding:10px 20px;
+	margin:15px 10%;
+	background:#FFF;
+    box-shadow: 0 0 2px #333;
+    border-radius: 5px;
+}
+.box {
+    background: #EEE;
+    padding: 20px;
+    border: 1px dashed #DDD;
+    margin-bottom: 20px;
+    font-weight: 700;
+    border-radius: 12px;
+    margin-top: 20px;
+}
+.box-center {
+    padding: 20px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+table
+{
+	table-layout:auto;
+	width:100%;
+	border-collapse:collapse
+}
+
+td
+{
+	border-bottom:1px solid #CCC;
+	text-align:left;
+	padding:5px
+}
+form {
+    margin-bottom: 0;
+    margin-top: 15px;
+}
+.center-box {
+    padding: 10px;
+    margin: -45px 10% 0px 10%;
+}
